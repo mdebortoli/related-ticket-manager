@@ -14,7 +14,7 @@ The **Related Ticket Manager** app was developed to help Zendesk agents to find 
     > - **Search terms:** password, order
     > - **Results:** both tickets containing **password** OR **order**
 - Spaces will always be interpreted as an "AND" operator.
-- Testing
+- Testing again
   - Example:
     > - **Search terms:** reset password
     > - **Results:** both tickets containing **reset** AND **password**
